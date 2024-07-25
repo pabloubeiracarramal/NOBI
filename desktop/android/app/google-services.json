@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1089675818188",
+    "project_id": "flutter-nobi",
+    "storage_bucket": "flutter-nobi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089675818188:android:65568ac49b3681699fbe69",
+        "android_client_info": {
+          "package_name": "com.example.desktop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089675818188-toaa3qaiundfos03j8il14eg3f2uhjcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjaXVKIolBl6dNNEbVfOIcngRxZ7zi1sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089675818188-a3or6f52l6215m2vsh9feiobhr8ili7u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1089675818188-3eg0p2dgjben6uui7ua9lo44v2oa2ss5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.desktop.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

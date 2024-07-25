@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>25095127097-1u7tbq9rp3rd3t9rr7i1dejoj1l9kuem.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.25095127097-1u7tbq9rp3rd3t9rr7i1dejoj1l9kuem</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBQ5SQyvBv1WiK-s0qLnWUiOLZpEmbhsm4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>25095127097</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.desktop.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>nobi-a86eb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nobi-a86eb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:25095127097:ios:933ab014283e435ebe4de8</string>
+</dict>
+</plist>
